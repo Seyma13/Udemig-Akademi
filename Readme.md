@@ -14,9 +14,6 @@ Udemig Akademi bir eğitim projesi tasarımıdır
 ## 📞 İletişim  
 Herhangi bir sorunuz veya öneriniz mi var? Bizimle iletişime geçin:  
 - **E-posta:** black123942@gmail.com  
+>> Seyma Orman
 
-
->>Udemig Academy
->
-![UdemigAkademi](https://github.com/user-attachments/assets/ee003264-e5b0-47f9-bf08-cf3348766ba9)
 
