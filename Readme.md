@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏢 - Udemig Akademi
 
 Udemig Akademi Eğitim Tasarımı
@@ -24,3 +25,9 @@ Herhangi bir sorunuz veya öneriniz mi var? Bizimle iletişime geçin:
 
 
 
+=======
+>>Udemig Academy
+>
+>
+![UdemigAkademi](https://github.com/user-attachments/assets/ee003264-e5b0-47f9-bf08-cf3348766ba9)
+>>>>>>> 87742d579af8c0035601cf9f4d813236fa669c27
